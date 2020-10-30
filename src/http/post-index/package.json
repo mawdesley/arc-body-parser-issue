@@ -1,0 +1,16 @@
+{
+  "name": "post-index",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@architect/functions": "^3.13.4",
+    "aws-sdk": "^2.782.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
